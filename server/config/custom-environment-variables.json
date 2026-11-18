@@ -1,0 +1,6 @@
+{
+  "dbUrl": "MONGODB_URI",
+  "secretKey": "JWT_SECRET",
+  "filePath": "FILE_PATH",
+  "staticPath": "STATIC_PATH"
+}

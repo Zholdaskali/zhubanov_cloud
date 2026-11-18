@@ -1,0 +1,106 @@
+[
+  {
+    "title": "1. MERN Mongo Express React Node.js Облачное хранилище - Практический курс 2020. Введение",
+    "id": "6dJV7VQ_pr8"
+  },
+  {
+    "title": "2. React + Node.js - Создаем БД и React приложение - Облачное хранилище",
+    "id": "dLf_eXpUDjY"
+  },
+  {
+    "title": "3. React + Node.js - express.js запускаем сервер. Проектируем БД - Облачное хранилище",
+    "id": "P-EW3ErBQkc"
+  },
+  {
+    "title": "4. React + Node.js - REST Api, регистрация на сервере - Облачное хранилище",
+    "id": "tPpvz-DIG0w"
+  },
+  {
+    "title": "5. React + Node.js - JWT токен, авторизация - Облачное хранилище",
+    "id": "ITBPoR3p7YA"
+  },
+  {
+    "title": "6. React + Node.js - Подключаем Redux - Облачное хранилище",
+    "id": "sGWxqea-oBc"
+  },
+  {
+    "title": "7. React + Node.js - форма регистрации. Ассинхронные запросы - Облачное хранилище",
+    "id": "sqou7Zlj264"
+  },
+  {
+    "title": "8. React + Node.js - форма авторизации. JWT токен - Облачное хранилище",
+    "id": "o30BcvKwcvg"
+  },
+  {
+    "title": "9. React + Node.js - Модель файла, создание папок - Облачное хранилище",
+    "id": "D53AlYpaxTI"
+  },
+  {
+    "title": "10. React + Node.js - Получаем файлы, главная страница - Облачное хранилище",
+    "id": "mIGyDd9B6Ug"
+  },
+  {
+    "title": "11. React + Node.js - Создание папок, Всплывающее окно PopUp - Облачное хранилище",
+    "id": "C6BoMBQWaeo"
+  },
+  {
+    "title": "12. React + Node.js - Навигация по папкам - Облачное хранилище",
+    "id": "oWh4NQCQdr4"
+  },
+  {
+    "title": "13. React + Node.js - Загрузка файлов на сервер - Облачное хранилище",
+    "id": "bwlfo9G1b2c"
+  },
+  {
+    "title": "14. React + Node.js - Загрузка файлов. Отслеживание прогресса - Облачное хранилище",
+    "id": "LUxByBl5w40"
+  },
+  {
+    "title": "15. React + Node.js - Drag and drop загрузка файлов - Облачное хранилище",
+    "id": "C3IayqAioo4"
+  },
+  {
+    "title": "16. React + Node.js - Скачивание файлов с сервера - Облачное хранилище",
+    "id": "LHFRwvnrgIU"
+  },
+  {
+    "title": "17. React + Node.js - Удаление файлов - Облачное хранилище",
+    "id": "usU9H9Pa7W0"
+  },
+  {
+    "title": "18. React + Node.js - Прогресс загрузки файлов - Облачное хранилище",
+    "id": "_z4iWkoI1K4"
+  },
+  {
+    "title": "19. React + Node.js - Анимации и форматирование - Облачное хранилище",
+    "id": "GkRYKa_nQlE"
+  },
+  {
+    "title": "20. React + Node.js - Сортировка файлов - Облачное хранилище",
+    "id": "8hUPj1aUbv4"
+  },
+  {
+    "title": "21. React + Node.js - Поиск файлов - Облачное хранилище",
+    "id": "77msU1gRLdw"
+  },
+  {
+    "title": "22. React + Node.js - Различное представление файлов - Облачное хранилище",
+    "id": "mbJ8m3tbLoc"
+  },
+  {
+    "title": "23. React + Node.js - Раздача статики, Аватар пользователя - Облачное хранилище",
+    "id": "14eDoj62nVo"
+  },
+  {
+    "title": "24. React + Node.js - Загрузка\\удаление аватарки пользователя - Облачное хранилище",
+    "id": "dJoHztjWD9M"
+  },
+  {
+    "title": "25. Деплой node.js express сервер на Heroku. Размещаем nodejs сервер на хостинг",
+    "id": "lAIOTi6w7Pk"
+  },
+  {
+    "title": "26. Заключение. Деплой REACT JS приложения на Heroku. Размещаем react приложение на хостинг",
+    "id": "BpjYagbRTiM"
+  }
+]

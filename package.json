@@ -1,0 +1,14 @@
+{
+  "name": "zhubanov-cloud",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "build": "npm ci --prefix client && VITE_API_URL=${VITE_API_URL:-/} npm run build --prefix client",
+    "start": "cd server && NODE_ENV=production node index.js",
+    "postinstall": "npm ci --prefix server",
+    "test": "npm test --prefix server && npm test --prefix client"
+  }
+}

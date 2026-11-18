@@ -1,0 +1,7 @@
+{
+  "serverPort": 5001,
+  "dbUrl": "mongodb://127.0.0.1:27017/mern_cloud",
+  "secretKey": "local-study-secret-change-before-deploy",
+  "filePath": "./files",
+  "staticPath": "./static"
+}

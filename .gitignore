@@ -1,0 +1,18 @@
+# dependencies
+server/node_modules
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+.idea
+# dependencies
+client/node_modules
+
+
+node_modules/
+client/dist/
+server/files/
+server/config/local.json
+*.zip
+server/static/
+.env
+client/.env
+client/.env.local
